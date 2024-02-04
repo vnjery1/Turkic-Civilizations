@@ -74,14 +74,13 @@
   "innerColor": [254, 230, 0],
   "defeated": "This day will be very sad for kazakh people",
   "uniqueName": "National Games",
- "uniqueText": "[[+1 Happiness] from every [Pasture]]
-[[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
+ "uniqueText": "[[+1 Happiness] from every [Pasture]],,[[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
   "uniques": ["[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]", "[+1 Happiness] from every [Pasture]", "[+1 Culture] from every [Pasture] <with [1] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [2] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [3] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [4] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [5] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [6] to [6] neighboring [Yurt] tiles>", "[+1 Food] from [Yurt] tiles [in all cities] <with [2] to [3] neighboring [Pasture] tiles>",
   "[+2 Food] from [Yurt] tiles [in all cities] <with [4] to [5] neighboring [Pasture] tiles>","[+3 Food] from [Yurt] tiles [in all cities] <with [6] to [6] neighboring [Pasture] tiles>",],
-  "cities": ["Astana", "Almaty", "Shymkent", "Turkestan", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Ust-Kamenogorsk", "Taldykorgan", "Kostanai", "Baikonyr"]
+  "cities": [ "Astana", "Almaty", "Shymkent", "Turkestan", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Ust-Kamenogorsk", "Taldykorgan", "Kostanai", "Baikonyr"]
 },
 {
   "name": "Gokturks",
@@ -105,7 +104,7 @@
 },
 {
   "name": "Kyrgyzstan",
-  "leaderName": "Muhammed-kyrgyz",
+  "leaderName": "Roza Otunbayeva",
   "adjective": ["Kyrgyz"],
   "prefferedVictoryType": "Cultural",
   "startBias": ["Mountain"],
@@ -139,8 +138,7 @@
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
   "uniqueName": "Ruhnama",
-  "uniqueText": "[+7% Great Person generation in all cities per each type of luxury resource]
-[Free Great Artist appears upon entering the Industrial era]",
+  "uniqueText": "[+7% Great Person generation in all cities per each type of luxury resource],[Free Great Artist appears upon entering the Industrial era]",
   "uniques": ["Free [Great Artist] appears <upon entering the [Industrial era]>", "[+7]% Great Person generation [in all cities] <with [Citrus]>", "[+7]% Great Person generation [in all cities] <with [Copper]>", 
   "[+7]% Great Person generation [in all cities] <with [Cotton]>", "[+7]% Great Person generation [in all cities] <with [Crab]>","[+7]% Great Person generation [in all cities] <with [Dyes]>","[+7]% Great Person generation [in all cities] <with [Furs]>",
   "[+7]% Great Person generation [in all cities] <with [Gems]>","[+7]% Great Person generation [in all cities] <with [Gold Ore]>","[+7]% Great Person generation [in all cities] <with [Incense]>","[+7]% Great Person generation [in all cities] <with [Ivory]>",
@@ -150,9 +148,9 @@
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
-  "name": "Horezm",
+  "name": "Khiva",
   "leaderName": "Tekesh",
-  "adjective": ["Horezm"],
+  "adjective": ["Khorezm"],
   "prefferedVictoryType": "Scientific",
   "introduction": "Howdy, i am leader of Horesm people and lands. Nice to meet you",
   "startIntroPart1": " ",
@@ -186,8 +184,7 @@
   "innerColor": [249, 209, 0],
   "defeated": "Goodbye",
   "uniqueName": "Strength in Justice",
-  "uniqueText": "[Gain 100 [Gold] upon founding a city (+150 [Gold] additionaly per 5 population in capital)]
-[+1 [Gold] per 2 population in all cities]",
+  "uniqueText": "[Gain 100 [Gold] upon founding a city (+150 [Gold] additionaly per 5 population in capital)],[+1 [Gold] per 2 population in all cities]",
   "uniques": ["Gain a free [Bukhara bonus1] [in capital] <in cities with at least [5] [Population]>","Gain a free [Bukhara bonus6] [in capital] <in cities with at least [10] [Population]>",
   "Gain a free [Bukhara bonus2] [in capital] <in cities with at least [15] [Population]>","Gain a free [Bukhara bonus7] [in capital] <in cities with at least [20] [Population]>",
   "Gain a free [Bukhara bonus3] [in capital] <in cities with at least [25] [Population]>","Gain a free [Bukhara bonus8] [in capital] <in cities with at least [30] [Population]>",
